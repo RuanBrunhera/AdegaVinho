@@ -77,8 +77,7 @@ const styles = StyleSheet.create({
     color: '#5b5b5b',
     marginBottom: 20,
     paddingHorizontal: 20,
-    alignSelf: 'flex-start',
-    marginLeft: 20,
+    alignSelf: 'flex-start'
   },
   vinho: {
     fontSize: 22,
@@ -98,7 +97,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     backgroundColor: '#b88f86',
     width: '96%',
-    height: 160,
+    height: 180,
     borderRadius: 14,
     padding: 16,
     flexDirection: 'row',
