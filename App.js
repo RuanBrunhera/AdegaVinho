@@ -8,7 +8,7 @@ import TelaContato from "./screens/TelaContato";
 
 const Abas = createBottomTabNavigator();
 
-export default function App () {
+export default function App (navigation) {
   return (
     <NavigationContainer >
       <Abas.Navigator screenOptions={{
